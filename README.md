@@ -1,7 +1,7 @@
 <h1 align="center">🏦 Customer Churn Prediction</h1>
 
 <p align="center">
-  <b>Predict whether a bank customer will leave — powered by a trained Artificial Neural Network</b>
+  <b>Predict whether a bank customer will leave - Trained by a powerful Artificial Neural Network</b>
 </p>
 
 <p align="center">
@@ -34,7 +34,7 @@ This project builds an ANN model that predicts **which customers are likely to c
 | Source | [Kaggle — Churn Modelling Dataset](https://www.kaggle.com/datasets/shrutimechlearn/churn-modelling) |
 | Rows | 10,000 customers |
 | Features | 11 (Age, Balance, Geography, Gender, etc.) |
-| Target | `Exited` — 1 = Churned, 0 = Stayed |
+| Target | `Exited` - 1 = Churned, 0 = Stayed |
 | Churn Rate | 20.37% |
 
 ---
