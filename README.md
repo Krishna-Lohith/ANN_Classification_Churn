@@ -36,7 +36,7 @@ This project builds an ANN model that predicts **which customers are likely to c
 | Features | 12 (Age, Balance, Geography, Gender, etc.) |
 | Target | `Exited` - 1 = Churned, 0 = Stayed |
 | Churn Rate | 20.37% |
-
+| **Accuracy** | 86.35% |
 ---
 
 ## ⚙️ How It Works
